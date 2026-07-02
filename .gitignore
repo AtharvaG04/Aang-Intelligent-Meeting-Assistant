@@ -1,0 +1,36 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment Variables
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Downloads
+downloads/
+
+# Vector Database
+vector_db/
+
+# Whisper Models
+*.pt
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
